@@ -1,5 +1,6 @@
-a=int(input())
-b=int(input())
+a=int(input('vvedi b'))
+b=int(input('vvedi b'))
 print(a-b)
 print(a+b)
+print(a!=b)
 
